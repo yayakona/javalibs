@@ -21,4 +21,4 @@ dependencies {
 apply plugin: 'application'
 
 // Mainクラスを指定(パッケージ名込み(FQCN))
-mainClassName = 'HelloWorld'
+mainClassName = 'Main'
